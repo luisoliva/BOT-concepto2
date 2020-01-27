@@ -14,6 +14,7 @@ export class PageGenericComponent implements OnInit, OnDestroy , OnChanges{
   @Input() enable: boolean;
   _contentMessage: HeaderMessage = null;
   _pageSuscribe: Subscription;
+  @Input() title: string;
   constructor(
     private page: PageGenericService,
     private cdRef:  ChangeDetectorRef
@@ -21,7 +22,7 @@ export class PageGenericComponent implements OnInit, OnDestroy , OnChanges{
 
   ngOnChanges(changes: SimpleChanges): void {
     console.log('he sido cambiado')
-    
+
   }
 
 
