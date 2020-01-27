@@ -21,7 +21,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { registerLocaleData } from '@angular/common';
 import es from '@angular/common/locales/es';
 import { EgxLoginPageComponent } from './modules/egx-login-page/egx-login-page.component';
-import { httpSetHeaders } from 'src/core/Interceptor/Message.interceptor';
+import { httpSetHeaders } from 'src/core/interceptor/Message.interceptor';
 import { SharedModule } from './shared/shared.module';
 import { EgxPageUserModule } from './modules/egx-page-user/egx-page-user.module';
 import { EgxPageRolModule } from './modules/egx-page-rol/egx-page-rol.module';
@@ -77,7 +77,7 @@ export function HttpLoaderFactory(http: HttpClient) {
     LoginGuardService, LoginService,
     {
       provide: BASE_SERVICE,
-      useClass: ServiceWebApi 
+      useClass: ServiceWebApi
     },
     {
       provide: ALERT_SERVICE,
