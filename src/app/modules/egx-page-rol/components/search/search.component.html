@@ -1,0 +1,17 @@
+<nz-input-group [nzSuffix]="sufijo" [nzPrefix]="prefijo">
+  <input #searchText name = "filterText" [(ngModel)] = "textSearch" type="text" nz-input placeholder="Enter your username"  (keyup)="OnKey(searchText.value)" />
+</nz-input-group>
+<ng-template #prefijo>
+    <i nz-icon nzType="search" nzTheme="outline"></i>
+</ng-template>
+<ng-template #sufijo >
+    <i 
+    nz-icon nzType="close-circle" 
+    nzTheme="fill"
+     (click) = "Clear()"
+     class="ant-input-clear-icon"
+     *ngIf="isVisibleClose"
+     (click)="inputValue = null"
+     ></i>
+</ng-template>
+

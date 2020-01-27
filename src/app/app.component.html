@@ -1,0 +1,56 @@
+<div class="container_spinner" *ngIf="loading">
+  <div class="loader">Loading...</div>
+</div>
+<nz-layout class="app-layout">
+
+  <nz-sider class="menu-sidebar" nzCollapsible nzWidth="256px" nzBreakpoint="md" [(nzCollapsed)]="isCollapsed"
+    [nzTrigger]="null">
+    <div class="sidebar-logo">
+      <a>
+        <img src="http://www.egob.mx/Assets/img/egob/egobmenu.png" id="logo" alt="logo">
+        <!-- <img src="https://ng.ant.design/assets/img/logo.svg" alt="logo">
+        <h1>Ant Design Of Angular</h1> -->
+      </a>
+    </div>
+    <ul nz-menu nzTheme="dark" nzMode="inline" [nzInlineCollapsed]="isCollapsed">
+      <li nz-submenu nzOpen nzTitle="SSO (Seguridad)" nzIcon="dashboard">
+        <ul>
+          <li nz-menu-item nzMatchRouter>
+            <a [routerLink]="['/users']" routerLinkActive="router-link-active">Usuarios</a>
+          </li>
+          <li nz-menu-item nzMatchRouter>
+            <a [routerLink]="['/roles']">Roles</a>
+          </li>
+          <li nz-menu-item nzMatchRouter>
+            <a [routerLink]="['/roles/form-demo']">Concepto directivas</a>
+          </li>
+          <li nz-menu-item nzMatchRouter>
+            <a>Workplace</a>
+          </li>
+        </ul>
+      </li>
+      <li nz-submenu nzOpen nzTitle="BPM " nzIcon="form">
+        <ul>
+          <li nz-menu-item nzMatchRouter>
+            <a>Basic Form</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </nz-sider>
+  <nz-layout>
+    <nz-header>
+      <div class="app-header">
+        <span class="header-trigger" (click)="isCollapsed = !isCollapsed">
+          <i class="trigger" nz-icon [nzType]="isCollapsed ? 'menu-unfold' : 'menu-fold'"></i>
+        </span>
+        <select #selectLanguage (change)="changeLanguage(selectLanguage.value)">
+          <option *ngFor="let language of lstLanguage" [value]="language">{{language}}</option>
+        </select>
+      </div>
+    </nz-header>
+    <div>
+        <router-outlet></router-outlet>
+    </div>
+  </nz-layout>
+</nz-layout>

@@ -1,0 +1,5 @@
+
+/* You can add global styles to this file, and also import other style files */
+[nz-form]:not(.ant-form-inline):not(.ant-form-vertical) {
+    max-width: 600px;
+  }

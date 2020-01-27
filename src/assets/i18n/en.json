@@ -1,0 +1,43 @@
+{
+  "Name": {
+    "Label": "Name",
+    "ToolTip": "Name of User",
+    "PlaceHolder": "User name",
+    "ErrorMessage": {
+      "Required": "Please Insert user name",
+      "Duplicated": "The username is redundant!"
+    }
+
+  },
+  "LastName": {
+    "Label": "last name:",
+    "ToolTip": "Last name user",
+    "PlaceHolder": "Last name",
+    "ErrorMessage": "Please,Insert user last name"
+  },
+  "UserType": {
+    "Label": "Tipo de usuario:",
+    "ToolTip": "Seleccione el tipo de usuario",
+    "PlaceHolder": null,
+    "ErrorMessage": "Favor de seleccionar del tipo de usuario"
+  },
+  "Table": {
+    "Name": "Name",
+    "Email": "Email",
+    "LastName": "Last Name",
+    "Id": "Id",
+    "Actions": "Actions"
+  },
+  "Select": {
+    "Customer": "Customer",
+    "SuperAdmin": "Super Admin",
+    "Admin": "Admin",
+    "UserComun": "User Comun"
+  },
+  "notification": {
+    "confirm": {
+      "title": "Enable Role?",
+      "message": "This description"
+    }
+  }
+}

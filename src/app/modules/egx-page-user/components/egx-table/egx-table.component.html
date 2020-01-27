@@ -1,0 +1,23 @@
+<button (click)="cambiaLoading()">Prueba de concepto</button>
+<nz-table #basicTable [nzData]="userAccounts">
+  <thead>
+    <tr>
+      <th>{{ 'Table.Id' | translate}}</th>
+      <th>{{ 'Table.Name' | translate}}</th>
+      <th>{{ 'Table.LastName' | translate}}</th>
+      <th>{{ 'Table.Email' | translate}}</th>
+      <th>{{ 'Table.Actions' | translate}}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let data of basicTable.data">
+      <td>{{data.id}}</td>
+      <td>{{data.first_name}}</td>
+      <td>{{data.last_name}}</td>
+      <td>{{data.email}}</td>
+      <td>
+        <button nz-button [nzSize]="size" [routerLink]="['/edit', data.id]" routerLinkActive="router-link-active"  nzType="default">Administrar</button>
+      </td>
+    </tr>
+  </tbody>
+</nz-table>

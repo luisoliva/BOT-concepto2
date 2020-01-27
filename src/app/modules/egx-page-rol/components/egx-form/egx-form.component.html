@@ -1,0 +1,19 @@
+<form nz-form (ngSubmit)="submitForm()">
+  <nz-form-item>
+    <nz-form-label [nzSpan]="isHorizontal ? 4 : null">RFC</nz-form-label>
+    <nz-form-control [nzSpan]="isHorizontal ? 14 : null" nzErrorTip="Please input your username!">
+      <input RFC-Directive value="PUCG930504" nz-input placeholder="input placeholder" />
+    </nz-form-control>
+  </nz-form-item>
+  <nz-form-item>
+    <nz-form-label [nzSpan]="isHorizontal ? 4 : null">Contraseña</nz-form-label>
+    <nz-form-control [nzSpan]="isHorizontal ? 14 : null" nzErrorTip="Please input your Password!">
+      <input nz-input placeholder="input placeholder" />
+    </nz-form-control>
+  </nz-form-item>
+  <nz-form-item>
+    <nz-form-control [nzSpan]="isHorizontal ? 14 : null" [nzOffset]="isHorizontal ? 4 : null">
+      <button nz-button nzType="primary">Valida</button>
+    </nz-form-control>
+  </nz-form-item>
+</form>

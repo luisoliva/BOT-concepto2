@@ -1,0 +1,32 @@
+<app-panel-action [enable]="enable"></app-panel-action>
+
+<nz-page-header nzTitle="Title">
+  <nz-breadcrumb nz-page-header-breadcrumb>
+    <nz-breadcrumb-item>First-level Menu</nz-breadcrumb-item>
+    <nz-breadcrumb-item>
+      <a>Second-level Menu</a>
+    </nz-breadcrumb-item>
+    <nz-breadcrumb-item>Third-level Menu</nz-breadcrumb-item>
+  </nz-breadcrumb>
+</nz-page-header>
+<div class="container-fluid">
+  <!--Alerta-->
+
+  <nz-alert *ngIf="_contentMessage" nzType="success" nzMessage="Titulo de la alerta" [nzDescription]="alertDescription"
+    nzShowIcon></nz-alert>
+  <ng-template #alertDescription> <a>Soy un link</a>
+  </ng-template>
+  <!---->
+  <div class="card mt-3">
+    <div class="card-body">
+      <!-- Main -->
+      <ng-content>
+
+
+      </ng-content>
+    </div>
+  </div>
+
+
+
+</div>

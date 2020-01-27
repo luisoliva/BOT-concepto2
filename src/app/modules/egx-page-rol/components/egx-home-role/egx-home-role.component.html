@@ -1,0 +1,16 @@
+
+<app-page-generic [enable] = "IsValidForm" >
+    <div>
+        <div [formGroup]="formUser">
+            <br>
+            <span>Nombre:</span>    
+            <input nz-input type="text" formControlName="name">
+            <div> <br></div>
+            <span>Apellido:</span>
+            <input nz-input type="text" formControlName="last_name">
+                        
+        </div>
+        <br>
+        <app-egx-list-users  (getUsers)="setUsers($event)"></app-egx-list-users>
+    </div>
+</app-page-generic>

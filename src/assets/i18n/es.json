@@ -1,0 +1,43 @@
+{    
+    "Name": {
+      "Label": "Nombre",
+      "ToolTip": "Nombre del usuario",
+      "PlaceHolder": "Ingrese el nombre de usuario",
+      "ErrorMessage": {
+        "Required":"Favor de ingresar el nombre",
+        "Duplicated": "El nombre ya existe"
+      }
+    },
+    "LastName": {
+      "Label": "Apellidos:",
+      "ToolTip": "Apellido del usuario",
+      "PlaceHolder": "Ingrese los apellidos",
+      "ErrorMessage": "Favor de ingresar los apellidos"
+    },
+    "UserType": {
+      "Label": "Tipo de usuario:",
+      "ToolTip": "Seleccione el tipo de usuario",
+      "PlaceHolder": null,
+      "ErrorMessage": "Favor de seleccionar del tipo de usuario"
+    },
+    "Table": {
+      "Name": "Nombre",
+      "Email": "Correo",
+      "LastName": "Apellido",
+      "Id": "Identificador",
+      "Actions": "Acciones"
+    },
+    "Select":{
+      "Customer": "Cliente",
+      "SuperAdmin": "Super Administrador",
+      "Admin" : "Administrador",
+      "UserComun": "Usuario común"
+    },
+    "notification": {
+      "confirm": {
+        "title": "¿Habilitar rol?",
+        "message": "habilitar rol"
+      }
+    }
+    
+  }

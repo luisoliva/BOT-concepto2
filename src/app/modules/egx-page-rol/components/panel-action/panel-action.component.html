@@ -1,0 +1,10 @@
+<div class="card">
+    <div class="row">
+        <div class="col-12 p-3">
+                <div class="d-flex flex-row justify-content-end">
+                  <button class="btn btn-secondary mr-2" (click)="Discard()">Cancelar</button>
+                  <button [disabled]="!enable" class="btn btn-primary mr-2" (click)="Ok()">Guardar</button>
+                </div>
+        </div>
+    </div>
+</div>

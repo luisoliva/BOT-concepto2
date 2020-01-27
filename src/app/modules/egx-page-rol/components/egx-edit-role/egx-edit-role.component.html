@@ -1,0 +1,42 @@
+<!-- <button nz-button [nzSize]="size" nzType="primary" [routerLink]="['/roles/AddRole']" routerLinkActive="router-link-active" >Guardar</button> -->
+<button nz-button [nzSize]="size" nzType="primary" [routerLink]="['/roles']"
+  routerLinkActive="router-link-active">Cancelar</button>
+
+<h2>Editar cuenta de usuario</h2>
+name <span>{{ (role$ | async).first_name}}</span>
+lastName <span>{{ (role$ | async).last_name}}</span>
+ 
+
+
+<form nz-form [formGroup]="validateForm" (ngSubmit)="submitForm(validateForm.value)">
+
+  <nz-form-item>
+    <nz-form-label [nzSpan]="7" nzRequired>{{ 'Name.Label' | translate}}</nz-form-label>
+    <nz-form-control [nzSpan]="12" nzHasFeedback nzValidatingTip="Validating..."
+      [nzErrorTip]="'Name.ToolTip' | translate">
+      <input nz-input formControlName="name" [placeholder]="'Name.PlaceHolder' | translate" />
+      <ng-template #userErrorTpl let-control>
+        <ng-container *ngIf="control.hasError('required')">
+          {{'Name.ErrorMessage.Required' | translate}}
+        </ng-container>
+        <ng-container *ngIf="control.hasError('duplicated')">
+          {{'Name.ErrorMessage.Duplicated' | translate}}
+        </ng-container>
+      </ng-template>
+    </nz-form-control>
+  </nz-form-item>
+
+  <nz-form-item>
+    <nz-form-label [nzSpan]="7" nzRequired>Comment</nz-form-label>
+    <nz-form-control [nzSpan]="12" nzErrorTip="Please write something here!">
+      <textarea formControlName="job" [value]="role.last_name" nz-input rows="2"
+        placeholder="write any thing"></textarea>
+    </nz-form-control>
+  </nz-form-item>
+  <nz-form-item>
+    <nz-form-control [nzOffset]="7" [nzSpan]="12">
+      <button nz-button nzType="primary" [disabled]="!validateForm.valid">Guardar</button>
+      <button nz-button (click)="resetForm($event)">Limpiar</button>
+    </nz-form-control>
+  </nz-form-item>
+</form>

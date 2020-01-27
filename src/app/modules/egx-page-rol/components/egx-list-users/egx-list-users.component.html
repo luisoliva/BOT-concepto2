@@ -1,0 +1,30 @@
+<app-search (search) = "Search($event)" ></app-search>
+<nz-list
+class="demo-loadmore-list"
+[nzDataSource]="lstUsers"
+[nzItemLayout]="'horizontal'"
+[nzLoading]="loading"
+[nzRenderItem]="item"
+>
+<ng-template #item let-item>
+  <nz-list-item
+    [nzContent]="item.loading ? '' : 'content'"
+    [nzActions]="item.loading ? [] : [editAction]"
+  >
+    <nz-skeleton [nzAvatar]="true" [nzActive]="true" [nzTitle]="false" [nzLoading]="item.loading">
+      <ng-template #editAction><nz-switch nzSize="small" [ngModel]="item.assignedRole" (ngModelChange) = Check($event,item.roleId) ></nz-switch></ng-template>
+      <nz-list-item-meta
+        [nzTitle]="nzTitle"
+        nzAvatar="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png"
+        nzDescription="Ant Design, a design language for background applications, is refined by Ant UED Team"
+      >
+        <ng-template #nzTitle>
+          <a href="https://ng.ant.design">{{ item.first_name }}</a>
+        </ng-template>
+        
+      </nz-list-item-meta>
+    </nz-skeleton>
+  </nz-list-item>
+</ng-template>
+
+</nz-list>

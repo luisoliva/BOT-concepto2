@@ -1,0 +1,1225 @@
+[{
+  "roleId": "1",
+  "type": 2,
+  "active": true,
+  "name": "Prueba",
+  "code": "ASDDFG",
+  "product": {
+    "productId": 2,
+    "name": "Sistema SSO"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 50
+} ,{
+  "roleId": "0ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 0",
+  "code": "ASDDFG0",
+  "product": {
+    "productId": 0,
+    "name": "Sistema SSO 0"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 10
+}, {
+  "roleId": "1ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 1",
+  "code": "ASDDFG1",
+  "product": {
+    "productId": 1,
+    "name": "Sistema SSO 1"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 11
+}, {
+  "roleId": "2ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 2",
+  "code": "ASDDFG2",
+  "product": {
+    "productId": 2,
+    "name": "Sistema SSO 2"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 12
+}, {
+  "roleId": "3ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 3",
+  "code": "ASDDFG3",
+  "product": {
+    "productId": 3,
+    "name": "Sistema SSO 3"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 13
+}, {
+  "roleId": "4ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 4",
+  "code": "ASDDFG4",
+  "product": {
+    "productId": 4,
+    "name": "Sistema SSO 4"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 14
+}, {
+  "roleId": "5ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 5",
+  "code": "ASDDFG5",
+  "product": {
+    "productId": 5,
+    "name": "Sistema SSO 5"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 15
+}, {
+  "roleId": "6ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 6",
+  "code": "ASDDFG6",
+  "product": {
+    "productId": 6,
+    "name": "Sistema SSO 6"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 16
+}, {
+  "roleId": "7ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 7",
+  "code": "ASDDFG7",
+  "product": {
+    "productId": 7,
+    "name": "Sistema SSO 7"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 17
+}, {
+  "roleId": "8ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 8",
+  "code": "ASDDFG8",
+  "product": {
+    "productId": 8,
+    "name": "Sistema SSO 8"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 18
+}, {
+  "roleId": "9ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 9",
+  "code": "ASDDFG9",
+  "product": {
+    "productId": 9,
+    "name": "Sistema SSO 9"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 19
+}, {
+  "roleId": "10ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 10",
+  "code": "ASDDFG10",
+  "product": {
+    "productId": 10,
+    "name": "Sistema SSO 10"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 20
+}, {
+  "roleId": "11ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 11",
+  "code": "ASDDFG11",
+  "product": {
+    "productId": 11,
+    "name": "Sistema SSO 11"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 21
+}, {
+  "roleId": "12ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 12",
+  "code": "ASDDFG12",
+  "product": {
+    "productId": 12,
+    "name": "Sistema SSO 12"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 22
+}, {
+  "roleId": "13ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 13",
+  "code": "ASDDFG13",
+  "product": {
+    "productId": 13,
+    "name": "Sistema SSO 13"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 23
+}, {
+  "roleId": "14ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 14",
+  "code": "ASDDFG14",
+  "product": {
+    "productId": 14,
+    "name": "Sistema SSO 14"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 24
+}, {
+  "roleId": "15ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 15",
+  "code": "ASDDFG15",
+  "product": {
+    "productId": 15,
+    "name": "Sistema SSO 15"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 25
+}, {
+  "roleId": "16ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 16",
+  "code": "ASDDFG16",
+  "product": {
+    "productId": 16,
+    "name": "Sistema SSO 16"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 26
+}, {
+  "roleId": "17ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 17",
+  "code": "ASDDFG17",
+  "product": {
+    "productId": 17,
+    "name": "Sistema SSO 17"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 27
+}, {
+  "roleId": "18ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 18",
+  "code": "ASDDFG18",
+  "product": {
+    "productId": 18,
+    "name": "Sistema SSO 18"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 28
+}, {
+  "roleId": "19ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 19",
+  "code": "ASDDFG19",
+  "product": {
+    "productId": 19,
+    "name": "Sistema SSO 19"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 29
+}, {
+  "roleId": "20ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 20",
+  "code": "ASDDFG20",
+  "product": {
+    "productId": 20,
+    "name": "Sistema SSO 20"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 30
+}, {
+  "roleId": "21ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 21",
+  "code": "ASDDFG21",
+  "product": {
+    "productId": 21,
+    "name": "Sistema SSO 21"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 31
+}, {
+  "roleId": "22ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 22",
+  "code": "ASDDFG22",
+  "product": {
+    "productId": 22,
+    "name": "Sistema SSO 22"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 32
+}, {
+  "roleId": "23ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 23",
+  "code": "ASDDFG23",
+  "product": {
+    "productId": 23,
+    "name": "Sistema SSO 23"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 33
+}, {
+  "roleId": "24ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 24",
+  "code": "ASDDFG24",
+  "product": {
+    "productId": 24,
+    "name": "Sistema SSO 24"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 34
+}, {
+  "roleId": "25ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 25",
+  "code": "ASDDFG25",
+  "product": {
+    "productId": 25,
+    "name": "Sistema SSO 25"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 35
+}, {
+  "roleId": "26ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 26",
+  "code": "ASDDFG26",
+  "product": {
+    "productId": 26,
+    "name": "Sistema SSO 26"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 36
+}, {
+  "roleId": "27ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 27",
+  "code": "ASDDFG27",
+  "product": {
+    "productId": 27,
+    "name": "Sistema SSO 27"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 37
+}, {
+  "roleId": "28ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 28",
+  "code": "ASDDFG28",
+  "product": {
+    "productId": 28,
+    "name": "Sistema SSO 28"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 38
+}, {
+  "roleId": "29ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 29",
+  "code": "ASDDFG29",
+  "product": {
+    "productId": 29,
+    "name": "Sistema SSO 29"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 39
+}, {
+  "roleId": "30ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 30",
+  "code": "ASDDFG30",
+  "product": {
+    "productId": 30,
+    "name": "Sistema SSO 30"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 40
+}, {
+  "roleId": "31ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 31",
+  "code": "ASDDFG31",
+  "product": {
+    "productId": 31,
+    "name": "Sistema SSO 31"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 41
+}, {
+  "roleId": "32ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 32",
+  "code": "ASDDFG32",
+  "product": {
+    "productId": 32,
+    "name": "Sistema SSO 32"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 42
+}, {
+  "roleId": "33ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 33",
+  "code": "ASDDFG33",
+  "product": {
+    "productId": 33,
+    "name": "Sistema SSO 33"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 43
+}, {
+  "roleId": "34ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 34",
+  "code": "ASDDFG34",
+  "product": {
+    "productId": 34,
+    "name": "Sistema SSO 34"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 44
+}, {
+  "roleId": "35ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 35",
+  "code": "ASDDFG35",
+  "product": {
+    "productId": 35,
+    "name": "Sistema SSO 35"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 45
+}, {
+  "roleId": "36ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 36",
+  "code": "ASDDFG36",
+  "product": {
+    "productId": 36,
+    "name": "Sistema SSO 36"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 46
+}, {
+  "roleId": "37ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 37",
+  "code": "ASDDFG37",
+  "product": {
+    "productId": 37,
+    "name": "Sistema SSO 37"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 47
+}, {
+  "roleId": "38ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 38",
+  "code": "ASDDFG38",
+  "product": {
+    "productId": 38,
+    "name": "Sistema SSO 38"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 48
+}, {
+  "roleId": "39ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 39",
+  "code": "ASDDFG39",
+  "product": {
+    "productId": 39,
+    "name": "Sistema SSO 39"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 49
+}, {
+  "roleId": "40ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 40",
+  "code": "ASDDFG40",
+  "product": {
+    "productId": 40,
+    "name": "Sistema SSO 40"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 50
+}, {
+  "roleId": "41ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 41",
+  "code": "ASDDFG41",
+  "product": {
+    "productId": 41,
+    "name": "Sistema SSO 41"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 51
+}, {
+  "roleId": "42ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 42",
+  "code": "ASDDFG42",
+  "product": {
+    "productId": 42,
+    "name": "Sistema SSO 42"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 52
+}, {
+  "roleId": "43ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 43",
+  "code": "ASDDFG43",
+  "product": {
+    "productId": 43,
+    "name": "Sistema SSO 43"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 53
+}, {
+  "roleId": "44ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 44",
+  "code": "ASDDFG44",
+  "product": {
+    "productId": 44,
+    "name": "Sistema SSO 44"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 54
+}, {
+  "roleId": "45ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 45",
+  "code": "ASDDFG45",
+  "product": {
+    "productId": 45,
+    "name": "Sistema SSO 45"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 55
+}, {
+  "roleId": "46ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 46",
+  "code": "ASDDFG46",
+  "product": {
+    "productId": 46,
+    "name": "Sistema SSO 46"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 56
+}, {
+  "roleId": "47ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 47",
+  "code": "ASDDFG47",
+  "product": {
+    "productId": 47,
+    "name": "Sistema SSO 47"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 57
+}, {
+  "roleId": "48ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 48",
+  "code": "ASDDFG48",
+  "product": {
+    "productId": 48,
+    "name": "Sistema SSO 48"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 58
+}, {
+  "roleId": "49ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 49",
+  "code": "ASDDFG49",
+  "product": {
+    "productId": 49,
+    "name": "Sistema SSO 49"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 59
+}, {
+  "roleId": "50ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 50",
+  "code": "ASDDFG50",
+  "product": {
+    "productId": 50,
+    "name": "Sistema SSO 50"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 60
+}, {
+  "roleId": "51ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 51",
+  "code": "ASDDFG51",
+  "product": {
+    "productId": 51,
+    "name": "Sistema SSO 51"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 61
+}, {
+  "roleId": "52ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 52",
+  "code": "ASDDFG52",
+  "product": {
+    "productId": 52,
+    "name": "Sistema SSO 52"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 62
+}, {
+  "roleId": "53ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 53",
+  "code": "ASDDFG53",
+  "product": {
+    "productId": 53,
+    "name": "Sistema SSO 53"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 63
+}, {
+  "roleId": "54ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 54",
+  "code": "ASDDFG54",
+  "product": {
+    "productId": 54,
+    "name": "Sistema SSO 54"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 64
+}, {
+  "roleId": "55ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 55",
+  "code": "ASDDFG55",
+  "product": {
+    "productId": 55,
+    "name": "Sistema SSO 55"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 65
+}, {
+  "roleId": "56ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 56",
+  "code": "ASDDFG56",
+  "product": {
+    "productId": 56,
+    "name": "Sistema SSO 56"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 66
+}, {
+  "roleId": "57ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 57",
+  "code": "ASDDFG57",
+  "product": {
+    "productId": 57,
+    "name": "Sistema SSO 57"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 67
+}, {
+  "roleId": "58ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 58",
+  "code": "ASDDFG58",
+  "product": {
+    "productId": 58,
+    "name": "Sistema SSO 58"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 68
+}, {
+  "roleId": "59ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 59",
+  "code": "ASDDFG59",
+  "product": {
+    "productId": 59,
+    "name": "Sistema SSO 59"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 69
+}, {
+  "roleId": "60ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 60",
+  "code": "ASDDFG60",
+  "product": {
+    "productId": 60,
+    "name": "Sistema SSO 60"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 70
+}, {
+  "roleId": "61ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 61",
+  "code": "ASDDFG61",
+  "product": {
+    "productId": 61,
+    "name": "Sistema SSO 61"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 71
+}, {
+  "roleId": "62ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 62",
+  "code": "ASDDFG62",
+  "product": {
+    "productId": 62,
+    "name": "Sistema SSO 62"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 72
+}, {
+  "roleId": "63ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 63",
+  "code": "ASDDFG63",
+  "product": {
+    "productId": 63,
+    "name": "Sistema SSO 63"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 73
+}, {
+  "roleId": "64ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 64",
+  "code": "ASDDFG64",
+  "product": {
+    "productId": 64,
+    "name": "Sistema SSO 64"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 74
+}, {
+  "roleId": "65ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 65",
+  "code": "ASDDFG65",
+  "product": {
+    "productId": 65,
+    "name": "Sistema SSO 65"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 75
+}, {
+  "roleId": "66ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 66",
+  "code": "ASDDFG66",
+  "product": {
+    "productId": 66,
+    "name": "Sistema SSO 66"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 76
+}, {
+  "roleId": "67ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 67",
+  "code": "ASDDFG67",
+  "product": {
+    "productId": 67,
+    "name": "Sistema SSO 67"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 77
+}, {
+  "roleId": "68ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 68",
+  "code": "ASDDFG68",
+  "product": {
+    "productId": 68,
+    "name": "Sistema SSO 68"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 78
+}, {
+  "roleId": "69ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 69",
+  "code": "ASDDFG69",
+  "product": {
+    "productId": 69,
+    "name": "Sistema SSO 69"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 79
+}, {
+  "roleId": "70ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 70",
+  "code": "ASDDFG70",
+  "product": {
+    "productId": 70,
+    "name": "Sistema SSO 70"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 80
+}, {
+  "roleId": "71ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 71",
+  "code": "ASDDFG71",
+  "product": {
+    "productId": 71,
+    "name": "Sistema SSO 71"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 81
+}, {
+  "roleId": "72ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 72",
+  "code": "ASDDFG72",
+  "product": {
+    "productId": 72,
+    "name": "Sistema SSO 72"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 82
+}, {
+  "roleId": "73ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 73",
+  "code": "ASDDFG73",
+  "product": {
+    "productId": 73,
+    "name": "Sistema SSO 73"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 83
+}, {
+  "roleId": "74ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 74",
+  "code": "ASDDFG74",
+  "product": {
+    "productId": 74,
+    "name": "Sistema SSO 74"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 84
+}, {
+  "roleId": "75ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 75",
+  "code": "ASDDFG75",
+  "product": {
+    "productId": 75,
+    "name": "Sistema SSO 75"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 85
+}, {
+  "roleId": "76ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 76",
+  "code": "ASDDFG76",
+  "product": {
+    "productId": 76,
+    "name": "Sistema SSO 76"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 86
+}, {
+  "roleId": "77ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 77",
+  "code": "ASDDFG77",
+  "product": {
+    "productId": 77,
+    "name": "Sistema SSO 77"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 87
+}, {
+  "roleId": "78ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 78",
+  "code": "ASDDFG78",
+  "product": {
+    "productId": 78,
+    "name": "Sistema SSO 78"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 88
+}, {
+  "roleId": "79ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 79",
+  "code": "ASDDFG79",
+  "product": {
+    "productId": 79,
+    "name": "Sistema SSO 79"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 89
+}, {
+  "roleId": "80ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 80",
+  "code": "ASDDFG80",
+  "product": {
+    "productId": 80,
+    "name": "Sistema SSO 80"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 90
+}, {
+  "roleId": "81ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 81",
+  "code": "ASDDFG81",
+  "product": {
+    "productId": 81,
+    "name": "Sistema SSO 81"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 91
+}, {
+  "roleId": "82ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 82",
+  "code": "ASDDFG82",
+  "product": {
+    "productId": 82,
+    "name": "Sistema SSO 82"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 92
+}, {
+  "roleId": "83ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 83",
+  "code": "ASDDFG83",
+  "product": {
+    "productId": 83,
+    "name": "Sistema SSO 83"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 93
+}, {
+  "roleId": "84ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 84",
+  "code": "ASDDFG84",
+  "product": {
+    "productId": 84,
+    "name": "Sistema SSO 84"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 94
+}, {
+  "roleId": "85ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 85",
+  "code": "ASDDFG85",
+  "product": {
+    "productId": 85,
+    "name": "Sistema SSO 85"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 95
+}, {
+  "roleId": "86ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 86",
+  "code": "ASDDFG86",
+  "product": {
+    "productId": 86,
+    "name": "Sistema SSO 86"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 96
+}, {
+  "roleId": "87ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 87",
+  "code": "ASDDFG87",
+  "product": {
+    "productId": 87,
+    "name": "Sistema SSO 87"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 97
+}, {
+  "roleId": "88ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 88",
+  "code": "ASDDFG88",
+  "product": {
+    "productId": 88,
+    "name": "Sistema SSO 88"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 98
+}, {
+  "roleId": "89ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 89",
+  "code": "ASDDFG89",
+  "product": {
+    "productId": 89,
+    "name": "Sistema SSO 89"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 99
+}, {
+  "roleId": "90ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 90",
+  "code": "ASDDFG90",
+  "product": {
+    "productId": 90,
+    "name": "Sistema SSO 90"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 100
+}, {
+  "roleId": "91ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 91",
+  "code": "ASDDFG91",
+  "product": {
+    "productId": 91,
+    "name": "Sistema SSO 91"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 101
+}, {
+  "roleId": "92ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 92",
+  "code": "ASDDFG92",
+  "product": {
+    "productId": 92,
+    "name": "Sistema SSO 92"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 102
+}, {
+  "roleId": "93ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 93",
+  "code": "ASDDFG93",
+  "product": {
+    "productId": 93,
+    "name": "Sistema SSO 93"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 103
+}, {
+  "roleId": "94ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 94",
+  "code": "ASDDFG94",
+  "product": {
+    "productId": 94,
+    "name": "Sistema SSO 94"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 104
+}, {
+  "roleId": "95ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 95",
+  "code": "ASDDFG95",
+  "product": {
+    "productId": 95,
+    "name": "Sistema SSO 95"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 105
+}, {
+  "roleId": "96ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 96",
+  "code": "ASDDFG96",
+  "product": {
+    "productId": 96,
+    "name": "Sistema SSO 96"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 106
+}, {
+  "roleId": "97ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 97",
+  "code": "ASDDFG97",
+  "product": {
+    "productId": 97,
+    "name": "Sistema SSO 97"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 107
+}, {
+  "roleId": "98ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 98",
+  "code": "ASDDFG98",
+  "product": {
+    "productId": 98,
+    "name": "Sistema SSO 98"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 108
+}, {
+  "roleId": "99ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 99",
+  "code": "ASDDFG99",
+  "product": {
+    "productId": 99,
+    "name": "Sistema SSO 99"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 109
+}, {
+  "roleId": "100ABC",
+  "type": 2,
+  "active": true,
+  "name": "Prueba 100",
+  "code": "ASDDFG100",
+  "product": {
+    "productId": 100,
+    "name": "Sistema SSO 100"
+  },
+  "description": "Esto es una prueba",
+  "countUsers": 110
+}]
